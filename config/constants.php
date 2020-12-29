@@ -10,7 +10,7 @@
     // define('DB_PASSWORD','');
     // define('DB_NAME','food-order');
 
-    //Remote Sql
+    //Remote Sql!!
     define('SITEURL','remotesql.com');
     define('HOST','remotesql.com');
     define('DB_USERNANE','fv5Ta1LEFP');
